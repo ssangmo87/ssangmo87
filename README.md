@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data processing and cleaning for projects. 
 - 📫 How to reach me: 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love reading translated webnovels. watching horro movies. 
+- ⚡ Fun fact: i love reading translated webnovels. watching horror movies. 
 
 <!---
 ssangmo87/ssangmo87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
